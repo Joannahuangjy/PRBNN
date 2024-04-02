@@ -1,0 +1,10 @@
+matplotlib
+numpy
+seaborn
+torch
+torchvision
+tqdm
+Pillow
+scikit-learn
+torchbnn
+hydrostats
