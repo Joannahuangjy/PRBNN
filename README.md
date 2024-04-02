@@ -22,4 +22,4 @@ Our PRBNN implementation can be explored in detail here: [(https://arxiv.org/pdf
 
 - **Additional Python Packages**: Some additional packages are required to run the examples. These can be installed via pip:
   ```bash
-  pip install -r requirements.txt
+  pip install -r requirement.txt
