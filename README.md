@@ -8,17 +8,15 @@ The PRBNN framework, implemented in PyTorch, leverages the power of GPUs to perf
 
 ### Implementation Details
 
-Our PRBNN implementation can be explored in detail here: [LINK_TO_PRBNN_IMPLEMENTATION]. This section of the repository delves into the neural network's architecture, showcasing how probabilistic predictions and uncertainty estimations are achieved at scale.
+Our PRBNN implementation can be explored in detail here: [(https://arxiv.org/pdf/2210.08608.pdf)]. 
 
 ### Project Structure
 
-- **`1d_regression`**: Includes simulation examples detailed in our research paper, demonstrating PRBNN's application to regression tasks and its effectiveness in uncertainty quantification in 1D data scenarios.
+- **`PRBNN_1d_regression`**: Includes simulation examples detailed in our research paper, demonstrating PRBNN's application to regression tasks and its effectiveness in uncertainty quantification in 1D data scenarios.
 
-- **`solar_case`**: Focuses on applying PRBNN to forecast solar plant energy output. This part of the repository contains all necessary code, except for the dataset, which is proprietary.
+- **`PRBNN_solar_case_study`**: Focuses on applying PRBNN to forecast solar plant energy output. This part of the repository contains all necessary code, except for the dataset, which is proprietary.
 
 ## Prerequisites
-
-- **Python 3.6+**: Ensure Python is installed on your machine. You can download it from [Python's official website](https://www.python.org/downloads/).
 
 - **PyTorch with GPU Support**: This implementation requires [PyTorch](https://pytorch.org/get-started/locally/) with GPU support to run efficiently. Install PyTorch by following the official instructions, ensuring you select the CUDA version compatible with your GPU.
 
