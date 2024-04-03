@@ -1,7 +1,6 @@
 # PRBNN Implementation in PyTorch with GPU Support
 
-This repository contains the implementation of Probabilistic Radial Basis Function Neural Networks (PRBNN) using PyTorch, optimized for performance with GPU support. It showcases PRBNN's application in theoretical simulations and real-world scenarios, demonstrating its predictive capabilities and efficiency in handling uncertainty.
-
+This repository contains the implementation of PRBNN using PyTorch, optimized for performance with GPU support. It showcases PRBNN's application in theoretical simulations and real-world scenarios.
 ## Overview
 
 The PRBNN framework, implemented in PyTorch, leverages the power of GPUs to perform complex predictive modeling tasks efficiently. This implementation is designed to serve as a comprehensive guide for applying PRBNN in various domains, from simple 1D regression problems to complex, real-world applications like solar energy forecasting.
